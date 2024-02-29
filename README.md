@@ -21,7 +21,7 @@
 - :telescope: I’m currently studying at Code Academy Berlin to become a full stack web developer 
 - :seedling: Exploring the world of coding
 - :zap: In my free time, I like to read tech articles and to code. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
