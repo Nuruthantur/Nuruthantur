@@ -4,12 +4,12 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/oliver-mayer-b32a60291/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80" height="20"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=nuruthantur&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nuruthantur&style=flat-square&color=blue" alt="User Nuruthantur"  width="80" height="20"/>
 <h1>
   hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="20"/>
 </h1>
 </div>
 
@@ -26,7 +26,9 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring the world of coding.
 - :zap: In my free time, I like to cook delicious food and keep myself updated on the latest trends in tech. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
+---
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -41,7 +43,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40" /> 
 </div>
-<!---
-Nuruthantur/Nuruthantur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuruthantur)](https://git.io/streak-stats)
+
