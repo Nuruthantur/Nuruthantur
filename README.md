@@ -26,6 +26,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :seedling: Exploring the world of coding.
 - :zap: In my free time, I like to cook delicious food and keep myself updated on the latest trends in tech. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -43,6 +44,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="40" height="40" /> 
 </div>
+
 ---
 
 ### :fire: My Stats :
