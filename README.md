@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Austria living in Berlin.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Web Developer from Austria living in Berlin.
 
 - :telescope: I’m currently studying at Code Academy Berlin to become a full stack web developer.
 - :seedling: Exploring the world of coding.
