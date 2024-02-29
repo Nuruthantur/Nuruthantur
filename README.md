@@ -47,4 +47,5 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nuruthantur)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruthantur)](https://github.com/anuraghazra/github-readme-stats)
 
