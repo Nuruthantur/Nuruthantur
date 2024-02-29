@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oliver Mayer
+- 👋 Hi, I’m Oliver 
 - 🌱 Currently learning to code to become a Full Stack Web Developer at Code Academy Berlin
 - 😄 Pronouns: he/him
 <div id="badges">
