@@ -17,9 +17,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I’m currently studying at Code Academy Berlin to become a full stack web developer 
-- :seedling: Exploring the world of coding
-- :zap: In my free time, I like to read tech articles and to code. 
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Austria living in Berlin.
+
+- :telescope: I’m currently studying at Code Academy Berlin to become a full stack web developer.
+- :seedling: Exploring the world of coding.
+- :zap: In my free time, I like to cook delicious food and keep myself updated on the latest trends in tech. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
 
 <div>
