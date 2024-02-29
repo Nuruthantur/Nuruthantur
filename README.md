@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Web Developer from Austria living in Berlin.
 
-- :telescope: I’m currently studying at Code Academy Berlin to become a full stack web developer.
+- :telescope: I’m currently studying at Code Academy Berlin.
 - :seedling: Exploring the world of coding.
 - :zap: In my free time, I like to cook delicious food and keep myself updated on the latest trends in tech. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
@@ -31,7 +31,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,firebase,git,github,html,js,latex,linux,nextjs,nodejs,postman,react,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css,html,firebase,git,github,html,js,latex,linux,nextjs,nodejs,postman,react,tailwind,vscode)](https://skillicons.dev)
 
 
 ---
