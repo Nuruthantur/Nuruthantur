@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
  I am a Full Stack Web Developer from Austria living in Berlin.
 
-- :telescope: I’m currently studying at Code Academy Berlin.
+- :telescope: Recently graduated from Code Academy Berlin.
 - :seedling: Exploring the world of coding.
 - :zap: In my free time, I like to cook delicious food and keep myself updated on the latest trends in tech. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-oliver-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-mayer-b32a60291/)
