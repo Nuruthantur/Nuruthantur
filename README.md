@@ -31,7 +31,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-  [![My Skills](https://skillicons.dev/icons?i=css,html,firebase,git,github,html,js,latex,linux,nextjs,nodejs,postman,react,tailwind,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=css,html,firebase,git,github,html,js,latex,linux,nextjs,nodejs,postman,react,tailwind,vscode, vue)](https://skillicons.dev)
 
 
 ---
